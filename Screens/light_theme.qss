@@ -1,0 +1,141 @@
+QWidget{
+    background-color: #d9e4f3;
+    color: black;
+    
+}
+
+QLineEdit{
+    color: black;
+}
+#s_frm_btn_theme{
+    background-color: #F15A24;
+    border-radius: 18px;
+}
+#s_btn_theme{
+    border: 1px solid #3D7A84;
+    border-radius: 10px;
+    background-color: #d9e4f3;
+    
+}
+
+#s_txt_orig_path:disabled{
+    color:black;
+}
+QPushButton:enabled{
+    color: white;
+    background-color: #3D7A84;
+    
+}
+
+QPushButton:disabled{
+    color: #6e6b6b;
+    background-color: transparent;
+    
+}
+
+QRadioButton{
+    background-color: transparent;
+}
+
+QRadioButton:disabled{
+    background-color: transparent;
+    color: #6e6b6b;
+}
+
+QRadioButton:enabled{
+    background-color: transparent;
+    color: black;
+}
+
+QFrame{
+    color: black;
+    background-color: #ecedf1; 
+    border-radius: 15px;
+    border: 4px solid #ccd0da;
+    
+}
+
+QLabel{
+    border: none;
+    background-color: transparent;
+}
+
+#s_lbl_title{
+    background-color: transparent;
+    
+}
+
+QSpinBox::up-button {
+    width: 0px;
+    height: 0px;
+}
+QSpinBox::down-button {
+    width: 0px;
+    height: 0px;
+}
+QSpinBox {
+    background-color: transparent;
+    selection-background-color: #d9e4f3;
+    selection-color: black;
+    font-size: 14pt;
+}
+
+QSpinBox:enabled {
+    color: black;
+    background-color: transparent;
+    selection-background-color: #d9e4f3;
+    selection-color: black;
+    font-size: 14pt;
+}
+
+QSpinBox:disabled {
+    color: #6e6b6b;
+    background-color: transparent;
+    font-size: 14pt;
+}
+
+QLineEdit{
+    background-color: white;
+    border-radius: 5px;
+}
+
+QHeaderView::section{
+    border: none;
+    color: black;
+    background-color: white;
+}
+#s_btn_schedule_del{
+    text-align: center;
+}
+
+#s_lst_schedule_list::item{
+    border: none;
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+
+#s_lst_schedule_list::item:selected{
+    background-color: white;
+    color:black;
+}
+
+#s_frm_shutdown, #s_frm_start{
+    background-color: transparent;
+    border: nome;
+}
+
+#s_frm_shutdown QLabel{
+    color:#F15A24;
+}
+    
+#s_frm_start QLabel{
+        color:#F15A24;
+}
+
+#s_lbl_ckb_start:disabled, #s_lbl_ckb_shutdown:disabled{
+    color:#6e6b6b
+
+}
+
+
+                                        

@@ -1,0 +1,15 @@
+{
+    "j_app_path": "D:/Dev/AutoBkp/Data/data.JSON",
+    "j_theme": "light",
+    "j_time": "19:56",
+    "j_data_format": "rar",
+    "j_dest_path": "D:\\Dev\\AutoBkp\\Backups",
+    "j_data_ck_shutdown": "True",
+    "j_data_ck_start": "False",
+    "j_origin_folder": [
+        {
+            "path": "C:/Users/Guiso/Desktop/proj 001",
+            "name": "proj"
+        }
+    ]
+}
